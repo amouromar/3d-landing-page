@@ -6,7 +6,7 @@ const page = () => {
       <div className="wrapper">
         <header>
           <nav>
-            <h1 className="text-dark-100 font-satoshi">3D Landing Page</h1>
+            <h1 className="text-dark-100 font-satoshi">3D Landing Page Design</h1>
           </nav>
         </header>
       </div>
